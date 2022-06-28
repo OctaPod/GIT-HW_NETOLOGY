@@ -1,2 +1,2 @@
 # GIT-HW_NETOLOGY
-check
+mod check list
